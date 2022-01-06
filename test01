@@ -1,0 +1,7 @@
+echo "# learn-everyday" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yudykurniawan/learn-everyday.git
+git push -u origin main
